@@ -1,1 +1,1 @@
-![Radish Concepts](/assets/images/logo.svg)
+![Radish Concepts](/assets/images/logo-white.svg)
