@@ -1,1 +1,1 @@
-![Radish Concepts](https://www.radishconcepts.com/wp-content/themes/radishconcepts/assets/images/logo.svg)
+![Radish Concepts](/assets/images/logo.svg)
